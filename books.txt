@@ -1,0 +1,10 @@
+Two state,chetan baghat,45,$1
+priya sufi,subin bhattrai,60,$2
+shirishko phool,parijat,20,$3
+jiwan kada ki phool,jhamak kumari ghimire,25,$4
+forget kathmandu,manjushree thapa,30,$5
+buddha's orphans,samrat upadhyay,35,$6
+prem pinda,balkrishna sama,40,$7
+china harako manche,hari bansha achraya,45,$8
+seto dharti,amar neupane,50,$9
+naso,guru prasad mainali,50,$10
